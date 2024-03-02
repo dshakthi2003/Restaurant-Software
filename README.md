@@ -1,0 +1,1 @@
+This is a custom restaurant software for a small veg restaurant in Coimbatore, built with Python and hosted on GitHub. It has features for menu, order, inventory, and customer management. The software is scalable, user-friendly, and offers real-time updates, tailored to the restaurant's requirements
